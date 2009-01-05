@@ -1,0 +1,10 @@
+.topbor{position:absolute;border-top-style:solid;border-top-width:1px;border-top-color:#000000;z-index:1}
+.leftbor{position:absolute;border-left-style:solid;border-left-width:1px;border-left-color:#000000;z-index:1}
+.topborw{position:absolute;border-top-style:solid;border-top-width:2px;border-top-color:#000000;z-index:1}
+.leftborw{position:absolute;border-left-style:solid;border-left-width:2px;border-left-color:#000000;z-index:1}
+.rectangle{position:absolute;border-style:solid;border-width:1px;border-color:#000000;z-index:1}
+.line{position:absolute;z-index:1}
+.hl{BORDER-TOP: #000000 1px solid; Z-INDEX: 1; OVERFLOW: hidden; POSITION: absolute}
+.vl{Z-INDEX: 1; OVERFLOW: hidden; BORDER-LEFT: #000000 1px solid; POSITION: absolute}
+.hlw{BORDER-TOP: #000000 2px solid; Z-INDEX: 1; OVERFLOW: hidden; POSITION: absolute}
+.vlw{Z-INDEX: 1; OVERFLOW: hidden; BORDER-LEFT: #000000 2px solid; POSITION: absolute}

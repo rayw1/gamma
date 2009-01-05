@@ -1,0 +1,8 @@
+INSTALLATION
+
+1.  Upload all files to your hosting package.  Suggested permissions are 755 except the cache folder which needs 777.
+2.  Go to the includes folder and open configuration.php.  Fill out your MySQL database information.  
+3.  For PHP Backups to work you will need to go into the phpBackup folder and edit backup.php to have your MySQL database information in it as well
+4.  For PHP Backups to be emailed to you, you will need to fill out backup.php to have the proper email account information.  
+5.  Restore the SQL database backup `database.zip`.
+6.  Default group is 'default', username 'admin', password 'admin'

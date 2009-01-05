@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<feedsList>
+<feed><name>BBC News</name><host>newsrss.bbc.co.uk</host><location>/rss/newsonline_uk_edition/front_page/rss.xml</location></feed>
+<feed><name>CNN.Com Top Headlines</name><host>rss.cnn.com</host><location>/rss/cnn_topstories.rss</location></feed>
+<feed><name>Dictionary.com Word of the Day</name><host>dictionary.reference.com</host><location>/wordoftheday/wotd.rss</location></feed>
+<feed><name>FoxNews Top Headlines</name><host>www.foxnews.com</host><location>/xmlfeed/rss/0,4313,0,00.rss</location></feed>
+<feed><name>Neowin Main</name><host>feeds.feedburner.com</host><location>/neowin-main</location></feed>
+<feed><name>NY Times</name><host>www.nytimes.com</host><location>/services/xml/rss/nyt/HomePage.xml</location></feed>
+<feed><name>Slashdot</name><host>rss.slashdot.org</host><location>/Slashdot/slashdot</location></feed>
+<feed><name>Sports Illustrated</name><host>rss.cnn.com</host><location>/rss/si_topstories.rss</location></feed>
+<feed><name>The Register</name><host>www.theregister.co.uk</host><location>/headlines.rss</location></feed>
+<feed><name>Tom's Hardware Guide</name><host>www.pheedo.com</host><location>/f/toms_hardware</location></feed>
+<feed><name>TG Daily</name><host>www.pheedo.com</host><location>/f/tg_daily</location></feed>
+</feedsList>

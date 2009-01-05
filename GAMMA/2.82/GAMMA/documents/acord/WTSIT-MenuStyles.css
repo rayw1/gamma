@@ -1,0 +1,17 @@
+    #ie5menu{
+    position:absolute;
+    width:40px;
+    border:2px solid #6F6F6F;
+    background-color:#BEBEBE;
+    font-family:Tahoma;
+    line-height:20px;
+    cursor:default;
+    visibility:hidden;
+    z-index:25;
+}
+
+
+    .menuitems{
+    padding-left:15px;
+    padding-right:15px;
+}

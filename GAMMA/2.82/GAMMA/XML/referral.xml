@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<referralList>
+<referral><name>Agency Renewal</name></referral>
+<referral><name>Book Transfer</name></referral>
+<referral><name>Cross Sell</name></referral>
+<referral><name>Customer Referral</name></referral>
+<referral><name>Dealership Referral</name></referral>
+<referral><name>Family/Friend</name></referral>
+<referral><name>Lapse/Rewrite</name></referral>
+<referral><name>Radio</name></referral>
+<referral><name>Television</name></referral>
+<referral><name>Yellow Pages</name></referral>
+<referral><name>Other</name></referral>
+</referralList>
