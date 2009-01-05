@@ -1,0 +1,2 @@
+UPGRADING from 2.xx to 3.0:
+The database has remained unchanged, but the configuration layout of GAMMA has changed.  Delete all of your files and reupload fresh ones.  Then go to the includes directory and modify configuration.php.

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<typeList>
+<type><name>Auto</name></type>
+<type><name>Classic Auto</name></type>
+<type><name>Commercial</name></type>
+<type><name>Condo</name></type>
+<type><name>Dwelling/Fire</name></type>
+<type><name>Health</name></type>
+<type><name>Home</name></type>
+<type><name>Life</name></type>
+<type><name>Membership</name></type>
+<type><name>Mobile Home</name></type>
+<type><name>Motorcycle</name></type>
+<type><name>Renters</name></type>
+<type><name>RV/Travel Trailer</name></type>
+<type><name>Umbrella</name></type>
+<type><name>Watercraft</name></type>
+</typeList>
